@@ -7,7 +7,7 @@ You need to put the Database credentials in .env fil
 ## Preparing the environment
 
 ### Installing Python Modeules
-`pip install -r requremients.txt`
+`pip install -r requirements.txt`
 
 ### Installing wkhtmltopdf so the App can make PDF 
 
