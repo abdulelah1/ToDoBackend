@@ -1,5 +1,8 @@
 
 .env
 .idea
+.gitignore
+.DS_Store
 app/__pycache__
 app/utils/__pycache__
+
